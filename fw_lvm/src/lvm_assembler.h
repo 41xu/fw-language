@@ -1,10 +1,9 @@
-//
-//  assembler.h
-//  Lmachine
-//
-//  Created by leviathan on 15/8/21.
-//  Copyright (c) 2015年 leviathan. All rights reserved.
-//
+/*
+ * @Author: fuujiro 
+ * @Date: 2018-12-04 21:35:16 
+ * @Last Modified by:   fuujiro 
+ * @Last Modified time: 2018-12-04 21:35:16 
+ */
 
 #pragma once
 #ifndef LVM_ASSEMBLER_H_
