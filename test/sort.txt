@@ -1,0 +1,22 @@
+def sort()
+{
+	var int a[10]={2,3,4,5,6,7,1,23,76,0}
+	var int i,j,temp
+	i=0
+	while(i<9)
+	{
+		j=0
+		while(j<9-i)
+		{
+			if(a[j]>a[j+1])
+			{
+				temp=a[j+1]
+				a[j+1]=a[j]
+				a[j]=temp
+			}
+		j=j+1
+		}
+	i=i+1
+	}
+	print(a)
+}
