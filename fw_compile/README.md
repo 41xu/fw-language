@@ -19,7 +19,7 @@ Follow these steps below.
 
     cd fw-language/
 
-    cd fw_compiler/
+    cd fw_compile/
 
     make
 
@@ -34,7 +34,7 @@ Follow these steps below.
     ```
     cd fw-lanuage/
 
-    cd fw-compiler/
+    cd fw-compile/
 
     ./fw inputPath_File OutputPath_File # This step will create intermediate code file.
 
